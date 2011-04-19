@@ -8,8 +8,8 @@
 
 <?php
 
-	echo("Welcome to the BitFutures Platform!");
-	echo("This page exists to ensure that your deployment environment is functional.");
+	echo("Welcome to the BitFutures Platform! <br/>\n\r");
+	echo("This page exists to ensure that your deployment environment is functional. <br/>\n\r");
 
 ?>
 
