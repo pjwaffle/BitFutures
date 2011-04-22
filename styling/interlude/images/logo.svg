@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="520.85022"
+   height="75.5"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="New document 1">
+  <title
+     id="title3136">BitFutures Platform interim logo</title>
+  <defs
+     id="defs4">
+    <filter
+       id="filter2989"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2991"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite2993"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter2989-8"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2991-5"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite2993-6"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter2989-6"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2991-0"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite2993-7"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="369.21739"
+     inkscape:cy="-101.45168"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>BitFutures Platform interim logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.7826108,-7.3621843)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2b1100;fill-opacity:1;stroke:none;filter:url(#filter2989-8);font-family:Sans"
+       x="291.80078"
+       y="60.912964"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="291.80078"
+         y="60.912964"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2b1100;font-family:Series 60 Sans;-inkscape-font-specification:Series 60 Sans">BitFutures Platform</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;filter:url(#filter2989-6);font-family:Sans"
+       x="289.80078"
+       y="62.912964"
+       id="text2985-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-7"
+         x="289.80078"
+         y="62.912964"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:Series 60 Sans;-inkscape-font-specification:Series 60 Sans">BitFutures Platform</tspan></text>
+    <path
+       transform="matrix(0.76190476,0,0,0.76190476,-49.309524,-271.88996)"
+       sodipodi:type="arc"
+       style="fill:#cccccc"
+       id="path3055-2"
+       sodipodi:cx="120.5"
+       sodipodi:cy="406.86218"
+       sodipodi:rx="31.5"
+       sodipodi:ry="30.5"
+       d="m 152,406.86218 c 0,16.84469 -14.10303,30.5 -31.5,30.5 -17.39697,0 -31.5,-13.65531 -31.5,-30.5 0,-16.84468 14.10303,-30.5 31.5,-30.5 17.39697,0 31.5,13.65532 31.5,30.5 z" />
+    <path
+       transform="matrix(0.26086956,0,0,0.29508197,34.28261,-46.19551)"
+       sodipodi:type="arc"
+       style="fill:#483737"
+       id="path3055-6"
+       sodipodi:cx="120.5"
+       sodipodi:cy="406.86218"
+       sodipodi:rx="31.5"
+       sodipodi:ry="30.5"
+       d="m 152,406.86218 c 0,16.84469 -14.10303,30.5 -31.5,30.5 -17.39697,0 -31.5,-13.65531 -31.5,-30.5 0,-16.84468 14.10303,-30.5 31.5,-30.5 17.39697,0 31.5,13.65532 31.5,30.5 z" />
+    <path
+       transform="matrix(0.26086956,0,0,0.29508197,-17.43478,-103.69551)"
+       sodipodi:type="arc"
+       style="fill:#ff6600"
+       id="path3055-6-4"
+       sodipodi:cx="120.5"
+       sodipodi:cy="406.86218"
+       sodipodi:rx="31.5"
+       sodipodi:ry="30.5"
+       d="m 152,406.86218 c 0,16.84469 -14.10303,30.5 -31.5,30.5 -17.39697,0 -31.5,-13.65531 -31.5,-30.5 0,-16.84468 14.10303,-30.5 31.5,-30.5 17.39697,0 31.5,13.65532 31.5,30.5 z" />
+    <path
+       transform="matrix(0.76190476,0,0,0.76190476,-44.80952,-267.62805)"
+       sodipodi:type="arc"
+       style="fill:#000000"
+       id="path3055-2-7"
+       sodipodi:cx="120.5"
+       sodipodi:cy="406.86218"
+       sodipodi:rx="31.5"
+       sodipodi:ry="30.5"
+       d="m 152,406.86218 c 0,16.84469 -14.10303,30.5 -31.5,30.5 -17.39697,0 -31.5,-13.65531 -31.5,-30.5 0,-16.84468 14.10303,-30.5 31.5,-30.5 17.39697,0 31.5,13.65532 31.5,30.5 z"
+       inkscape:transform-center-y="-12" />
+  </g>
+</svg>
