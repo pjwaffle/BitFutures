@@ -1,6 +1,8 @@
 #include "hammer.h"
 #include "ui_hammer.h"
 
+#include <feedmanager.h>
+
 Hammer::Hammer(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::Hammer)

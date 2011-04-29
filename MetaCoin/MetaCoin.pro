@@ -11,8 +11,10 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        hammer.cpp
+        hammer.cpp \
+    feedmanager.cpp
 
-HEADERS  += hammer.h
+HEADERS  += hammer.h \
+    feedmanager.h
 
 FORMS    += hammer.ui
