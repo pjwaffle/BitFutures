@@ -5,3 +5,6 @@
 .settings
 
 MetaCoin/MetaCoin.pro.user
+
+ThirdParty/qjson-0.7.1/qjson/CMakeFiles
+ThirdParty/qjson-0.7.1/qjson/build
