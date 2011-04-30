@@ -3,6 +3,8 @@
 
 #include <feedmanager.h>
 
+FeedManager fManager = new FeedManager();
+
 Hammer::Hammer(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::Hammer)
